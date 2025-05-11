@@ -15,15 +15,16 @@ Proiectul este util pentru monitorizarea confortului termic în locuințe, birou
 
 | Device                               | Usage                                      | Price (RON) | Link |
 |-------------------------------------|--------------------------------------------|-------------|------|
-| Arduino Nano (ATmega328p + CH340)   | Placă de control principală                | 24.99       | [link](https://www.optimusdigital.ro/ro/placi-programabile/10441-placa-arduino-nano-ch340.html) |
-| DHT22 Sensor                         | Măsurare temperatură și umiditate          | 23.12       | [link](https://www.optimusdigital.ro/ro/senzori-temperatura/8527-senzor-temperatura-dht22.html) |
-| LCD 1602 + Interfață I2C            | Afișaj alfanumeric cu 2 linii              | 16.34       | [link](https://www.optimusdigital.ro/ro/lcd-uri/3584-lcd-1602-i2c.html) |
-| HC-05 Bluetooth Module              | Comunicare cu telefonul                    | 28.09       | [link](https://www.optimusdigital.ro/ro/bluetooth/9491-modul-bluetooth-hc05.html) |
-| Active Buzzer                       | Avertizare sonoră                          | 4.98        | [link](https://www.optimusdigital.ro/ro/buzzer/3975-buzzer-activ.html) |
-| Breadboard (750 puncte)             | Montaj fără lipire                         | 8.98        | [link](https://www.optimusdigital.ro/ro/breadboard-uri/8468-breadboard-750.html) |
-| Jumper Wires (Male to Male)         | Conectarea componentelor                   | 22.99       | [link](https://www.optimusdigital.ro/ro/cabluri/3661-male-to-male-jumper-wires.html) |
-| USB Mini Cable (AM la Mini 50 cm)   | Alimentare și programare Arduino           | 3.99        | [link](https://www.optimusdigital.ro/ro/usb/9612-cablu-usb-mini.html) |
-| Plusivo Electronics Starter Kit     | LED-uri + rezistoare + PCB bonus           | 30.99       | [link](https://www.optimusdigital.ro/ro/kits/4065-starter-kit-plusivo.html) |
+| Arduino Nano (ATmega328p + CH340)   | Placă de control principală                | 24.99       | [link](https://www.optimusdigital.ro/en/compatible-with-arduino-nano/1686-development-board-arduino-nano-compatible-atmega328p-ch340.html) |
+| DHT22 Sensor                         | Măsurare temperatură și umiditate          | 23.12       | [link](https://www.optimusdigital.ro/en/temperature-sensors/1449-dht22-temperature-and-humidity-sensor-module.html) |
+| LCD 1602 + Interfață I2C            | Afișaj alfanumeric cu 2 linii              | 16.34       | [link](https://www.optimusdigital.ro/en/lcds/2894-1602-lcd-with-i2c-interface-and-blue-backlight.html) |
+| HC-05 Bluetooth Module              | Comunicare cu telefonul                    | 28.09       | [link](https://www.optimusdigital.ro/en/wireless-bluetooth/153-hc-05-master-slave-bluetooth-module-with-adapter-33v-and-5v-compatible.html) |
+| Active Buzzer                       | Avertizare sonoră                          | 4.98        | [link](https://www.optimusdigital.ro/en/buzzers/12513-pcb-mounted-active-buzzer-module.html) |
+| Breadboard (750 puncte)             | Montaj fără lipire                         | 8.98        | [link](https://www.optimusdigital.ro/en/breadboards/13245-breadboard-750-points.html) |
+| Jumper Wires (Male to Male)         | Conectarea componentelor                   | 22.99       | [link](https://www.optimusdigital.ro/en/wires-with-connectors/12475-male-to-male-jumper-wires-40-pin-40cm.html) |
+| USB Mini Cable (AM la Mini 50 cm)   | Alimentare și programare Arduino           | 3.99        | [link](https://www.optimusdigital.ro/en/usb-cables/2022-cablu-negru-usb-am-la-mini-usb-50-cm.html) |
+| Plusivo Electronics Starter Kit     | LED-uri + rezistoare + PCB bonus           | 30.99       | [link](https://www.optimusdigital.ro/en/kits/12026-plusivo-electronics-starter-kit-0721248990075.html) |
+
 
 **Total estimat**: **178.46 RON**
 ##  Libraries
