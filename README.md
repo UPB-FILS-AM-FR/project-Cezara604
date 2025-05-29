@@ -8,8 +8,7 @@ Acest proiect constă în realizarea unui termometru digital inteligent, cu alar
 
 Proiectul este util pentru monitorizarea confortului termic în locuințe, birouri sau sere. Datorită transmisiei Bluetooth, utilizatorul poate primi date în timp real pe telefon, fără a fi nevoie de conexiuni complicate sau rețele WiFi.
 ##  Architecture
-https://github.com/UPB-FILS-AM-FR/project-Cezara604/blob/main/Funky%20Gogo.png
-
+![Schema Tinkercad](https://raw.githubusercontent.com/UPB-FILS-AM-FR/project-Cezara604/main/Funky%20Gogo.png)
 ### Block Diagram
 DHT22 Sensor] → [Arduino Nano] → [LCD]
 ↓
@@ -63,8 +62,21 @@ DHT22 Sensor] → [Arduino Nano] → [LCD]
 
 **Total estimat**: **178.46 RON**
 ##  Libraries
-##  Log
+Acest proiect utilizează următoarele biblioteci:
 
+- 📦 *[DHT sensor library](https://github.com/adafruit/DHT-sensor-library)*  
+  → Permite citirea temperaturii de la senzorul DHT22.
+
+- 📦 *[Adafruit Unified Sensor](https://github.com/adafruit/Adafruit_Sensor)*  
+  → Necesară pentru funcționarea bibliotecii DHT.
+
+- 📦 *[LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)*  
+  → Pentru afișarea datelor pe ecranul LCD 1602 conectat prin I2C.
+
+- 📦 *SoftwareSerial* (inclusă în framework-ul Arduino)  
+  → Permite comunicarea serială cu modulul Bluetooth HC-05.
+
+##  Log
 - **Week 6 – 12 May**: Achiziția componentelor
 - **Week 7 – 19 May**:Asamblarea pieselor si programarea acestora
 - **Week 8 – 26 May**:Finalizarea si prezentarea proiectului
