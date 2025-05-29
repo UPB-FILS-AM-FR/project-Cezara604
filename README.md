@@ -8,7 +8,7 @@ Acest proiect constă în realizarea unui termometru digital inteligent, cu alar
 
 Proiectul este util pentru monitorizarea confortului termic în locuințe, birouri sau sere. Datorită transmisiei Bluetooth, utilizatorul poate primi date în timp real pe telefon, fără a fi nevoie de conexiuni complicate sau rețele WiFi.
 ##  Architecture
-
+![Architecture](
 ### Block Diagram
 ### Schematic (Textual)
 ##  Components
