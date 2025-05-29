@@ -8,9 +8,18 @@ Acest proiect constă în realizarea unui termometru digital inteligent, cu alar
 
 Proiectul este util pentru monitorizarea confortului termic în locuințe, birouri sau sere. Datorită transmisiei Bluetooth, utilizatorul poate primi date în timp real pe telefon, fără a fi nevoie de conexiuni complicate sau rețele WiFi.
 ##  Architecture
-![Architecture](
+![Architecture](Funky Gogo.png)
 ### Block Diagram
+DHT22 Sensor] → [Arduino Nano] → [LCD]
+↓
+[Buzzer]
+↓
+[LED-uri RGB]
+↓
+[Bluetooth HC-05]
+
 ### Schematic (Textual)
+
 ##  Components
 
 | Device                               | Usage                                      | Price (RON) | Link |
@@ -31,7 +40,7 @@ Proiectul este util pentru monitorizarea confortului termic în locuințe, birou
 ##  Log
 
 - **Week 6 – 12 May**: Achiziția componentelor
-- **Week 7 – 19 May**
-- **Week 8 – 26 May**
+- **Week 7 – 19 May**:Asamblarea pieselor si programarea acestora
+- **Week 8 – 26 May**:Finalizarea si prezentarea proiectului
 
 
