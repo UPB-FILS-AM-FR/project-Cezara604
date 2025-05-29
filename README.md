@@ -19,6 +19,31 @@ DHT22 Sensor] → [Arduino Nano] → [LCD]
 [Bluetooth HC-05]
 
 ### Schematic (Textual)
+🔹 **DHT22 - Senzor temperatură**
+- VCC → 5V
+- GND → GND
+- OUT → D2
+
+🔹 **LCD 1602 cu modul I2C**
+- VCC → 5V
+- GND → GND
+- SDA → A4
+- SCL → A5
+
+🔹 **Buzzer activ**
+- S (semnal) → D8
+- GND → GND
+
+🔹 **LED-uri**
+- LED roșu (ALERTĂ) → D4 (prin rezistor către GND)
+- LED galben (INSTABIL) → D3 (prin rezistor către GND)
+- LED verde (OK) → D7 (prin rezistor către GND)
+
+🔹 **Modul Bluetooth HC-05**
+- VCC → 5V
+- GND → GND
+- TXD → D11 (Arduino RX)
+- RXD → D9 (Arduino TX, prin divizor de tensiune recomandat)
 
 ##  Components
 
