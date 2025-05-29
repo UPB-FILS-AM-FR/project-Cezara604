@@ -8,7 +8,8 @@ Acest proiect constă în realizarea unui termometru digital inteligent, cu alar
 
 Proiectul este util pentru monitorizarea confortului termic în locuințe, birouri sau sere. Datorită transmisiei Bluetooth, utilizatorul poate primi date în timp real pe telefon, fără a fi nevoie de conexiuni complicate sau rețele WiFi.
 ##  Architecture
-![Architecture](Funky Gogo.png)
+https://github.com/UPB-FILS-AM-FR/project-Cezara604/blob/main/Funky%20Gogo.png
+
 ### Block Diagram
 DHT22 Sensor] → [Arduino Nano] → [LCD]
 ↓
